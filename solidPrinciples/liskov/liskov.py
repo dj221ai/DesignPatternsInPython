@@ -1,4 +1,4 @@
-'''FlyingBird and NonFlyingBird both inherit bird class but both  provide alternative implementation of fly method and ostric and parrot inherit from respective classes which satiesfies LSP any subclasses of bird can now be substituted without altering the correctness of a program.'''
+'''FlyingBird and NonFlyingBird both inherit bird class but both  provide alternative implementation of fly method and ostrich and parrot inherit from respective classes which satiesfies LSP any subclasses of bird can now be substituted without altering the correctness of a program.'''
 
 class Bird:
     def fly(self):
