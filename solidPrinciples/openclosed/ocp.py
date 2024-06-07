@@ -1,4 +1,4 @@
-''' we can add more shapes in the below codes without modifying the AreaCalculator class which satisfies the OC principle. The code is more flexible and easy to extend with new functionalities.'''
+''' we can add more shapes in the below codes without modifying the Area Calculator class which satisfies the OC principle. The code is more flexible and easy to extend with new functionalities.'''
 
 from abc import ABC, abstractmethod
 
